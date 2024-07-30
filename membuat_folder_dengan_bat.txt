@@ -1,0 +1,11 @@
+Buat file dengan ekstensi .txt dengan isi data berikut:
+
+MD asep_dwi_saputra
+MD dwi
+MD saputra
+
+Edit ekstensi menjadi .bat
+    
+Jalankan atau klik ganda filenya
+
+// Disarankan untuk menggunakan excel jika folder ada banyak
